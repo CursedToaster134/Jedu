@@ -3,6 +3,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello World!";
+    std::cout << "oma nimi";
     return 0;
 }
